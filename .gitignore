@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large generated data files (exclude from GitHub)
+data/retail_sales_data.csv
+data/retail_sales_clean.csv
+data/features.csv
+
+# Output CSVs (optional — comment out to include)
+# outputs/forecasts.csv
+# outputs/inventory_report.csv
+# outputs/reorder_alerts.csv
+
+# Trained model binaries (large files)
+models/best_forecast_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.idea/
+.vscode/
+*.code-workspace
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Environment variable files
+.env
+.env.*
+
+# Streamlit secrets
+.streamlit/secrets.toml

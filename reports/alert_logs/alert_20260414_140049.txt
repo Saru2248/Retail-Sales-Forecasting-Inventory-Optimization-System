@@ -1,0 +1,17 @@
+============================================================
+  RETAIL INVENTORY REORDER ALERT
+  Generated: 2026-04-14 14:00
+============================================================
+
+  7 products require immediate reorder!
+
+------------------------------------------------------------
+  [Mumbai Central] Tata Tea Premium 500g | Stock: 344 | ROP: 464 | Order: 439 units | Cost: Rs 109,750
+  [Chennai West] Sunflower Oil 1L | Stock: 384 | ROP: 503 | Order: 612 units | Cost: Rs 79,560
+  [Pune East] Dettol Hand Wash 500ml | Stock: 567 | ROP: 685 | Order: 657 units | Cost: Rs 78,840
+  [Pune East] Amul Butter 500g | Stock: 98 | ROP: 138 | Order: 251 units | Cost: Rs 70,280
+  [Chennai West] Dettol Hand Wash 500ml | Stock: 641 | ROP: 679 | Order: 578 units | Cost: Rs 69,360
+  [Mumbai Central] Haldiram Namkeen 400g | Stock: 414 | ROP: 489 | Order: 633 units | Cost: Rs 50,640
+  [Delhi North] Lay's Chips 100g | Stock: 715 | ROP: 846 | Order: 1603 units | Cost: Rs 32,060
+
+============================================================

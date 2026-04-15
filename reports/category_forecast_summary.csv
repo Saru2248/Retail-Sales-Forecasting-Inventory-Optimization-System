@@ -1,0 +1,36 @@
+store_name,category,total_predicted_12w,avg_weekly_predicted,peak_weekly_demand
+Bengaluru South,Beverages,6941,289.2,494
+Bengaluru South,Dairy,5429,226.2,437
+Bengaluru South,Household,2597,216.4,256
+Bengaluru South,Personal Care,7393,205.4,290
+Bengaluru South,Ready Meals,5271,439.2,570
+Bengaluru South,Snacks,38966,811.8,1878
+Bengaluru South,Staples,5271,219.6,280
+Chennai West,Beverages,6446,268.6,441
+Chennai West,Dairy,4660,194.2,319
+Chennai West,Household,2536,211.3,264
+Chennai West,Personal Care,7399,205.5,305
+Chennai West,Ready Meals,5335,444.6,566
+Chennai West,Snacks,38790,808.1,1967
+Chennai West,Staples,5096,212.3,273
+Delhi North,Beverages,6787,282.8,436
+Delhi North,Dairy,5319,221.6,458
+Delhi North,Household,2686,223.8,299
+Delhi North,Personal Care,7421,206.1,303
+Delhi North,Ready Meals,4979,414.9,533
+Delhi North,Snacks,38857,809.5,1926
+Delhi North,Staples,5305,221.0,271
+Mumbai Central,Beverages,6624,276.0,468
+Mumbai Central,Dairy,5427,226.1,409
+Mumbai Central,Household,2596,216.3,276
+Mumbai Central,Personal Care,7516,208.8,325
+Mumbai Central,Ready Meals,5083,423.6,584
+Mumbai Central,Snacks,40856,851.2,2044
+Mumbai Central,Staples,5534,230.6,330
+Pune East,Beverages,6739,280.8,389
+Pune East,Dairy,5533,230.5,428
+Pune East,Household,2721,226.8,273
+Pune East,Personal Care,7488,208.0,291
+Pune East,Ready Meals,4619,384.9,516
+Pune East,Snacks,40270,839.0,2052
+Pune East,Staples,5385,224.4,307

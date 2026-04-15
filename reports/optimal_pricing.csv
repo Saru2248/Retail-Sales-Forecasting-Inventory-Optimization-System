@@ -1,0 +1,16 @@
+product_id,product_name,base_price,test_price,price_change_pct,predicted_revenue
+P001,Whole Milk 1L,54.12,46.01,-15%,49498.68
+P002,Basmati Rice 5Kg,314.99,267.75,-15%,162008.17
+P003,Sunflower Oil 1L,127.95,108.76,-15%,90625.75
+P004,Colgate Toothpaste,83.65,71.1,-15%,35925.21
+P005,Lay's Chips 100g,19.69,16.73,-15%,26429.42
+P006,Parle-G Biscuits,9.84,8.36,-15%,22818.24
+P007,Dove Soap 3-Pack,147.62,169.76,+15%,53570.51
+P008,Tata Tea Premium 500g,246.07,209.16,-15%,140871.17
+P009,Coca-Cola 2L,88.56,75.28,-15%,86231.55
+P010,Maggi Noodles 12-Pack,145.65,123.8,-15%,151012.4
+P011,Amul Butter 500g,275.63,234.29,-15%,89013.68
+P012,Dettol Hand Wash 500ml,118.11,100.39,-15%,61542.34
+P013,Kurkure Snacks 200g,29.52,25.1,-15%,38523.43
+P014,Haldiram Namkeen 400g,78.73,66.92,-15%,64142.27
+P015,Rin Detergent 1Kg,78.74,66.93,-15%,49519.14

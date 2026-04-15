@@ -1,0 +1,16 @@
+product_id,product_name,category,price_elasticity,r2_score,interpretation
+P009,Coca-Cola 2L,Beverages,-2.2195,0.277,Lower price → Big demand boost (Highly elastic)
+P008,Tata Tea Premium 500g,Beverages,-2.0993,0.2677,Lower price → Big demand boost (Highly elastic)
+P003,Sunflower Oil 1L,Staples,-1.8913,0.5126,Lower price → Big demand boost (Highly elastic)
+P013,Kurkure Snacks 200g,Snacks,-1.7996,0.5518,Lower price → Big demand boost (Highly elastic)
+P001,Whole Milk 1L,Dairy,-1.7624,0.4228,Lower price → Big demand boost (Highly elastic)
+P015,Rin Detergent 1Kg,Household,-1.7203,0.4968,Lower price → Big demand boost (Highly elastic)
+P014,Haldiram Namkeen 400g,Snacks,-1.694,0.5442,Lower price → Big demand boost (Highly elastic)
+P006,Parle-G Biscuits,Snacks,-1.6541,0.5468,Lower price → Big demand boost (Highly elastic)
+P010,Maggi Noodles 12-Pack,Ready Meals,-1.5822,0.4037,Lower price → Big demand boost (Highly elastic)
+P005,Lay's Chips 100g,Snacks,-1.4424,0.5729,Price reduction moderately increases demand
+P011,Amul Butter 500g,Dairy,-1.394,0.3945,Price reduction moderately increases demand
+P004,Colgate Toothpaste,Personal Care,-1.3535,0.4735,Price reduction moderately increases demand
+P012,Dettol Hand Wash 500ml,Personal Care,-1.1719,0.5034,Price reduction moderately increases demand
+P002,Basmati Rice 5Kg,Staples,-1.0241,0.522,Price reduction moderately increases demand
+P007,Dove Soap 3-Pack,Personal Care,-0.8713,0.4729,Price reduction moderately increases demand

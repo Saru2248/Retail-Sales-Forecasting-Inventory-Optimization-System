@@ -1,0 +1,8 @@
+category,temp_coefficient,rain_coefficient,r2_weather,sensitivity
+Beverages,3.5098,41.8083,0.0222,0.8
+Dairy,-3.9195,24.8668,0.0086,-0.3
+Personal Care,-5.0101,7.371,0.0862,0.3
+Ready Meals,-5.7143,49.787,0.0485,-0.4
+Staples,-6.9357,8.4102,0.126,0.0
+Household,-7.4113,0.2896,0.1611,0.0
+Snacks,-14.0664,70.3399,0.0243,0.2

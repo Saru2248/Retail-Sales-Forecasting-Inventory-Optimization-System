@@ -1,0 +1,76 @@
+store_id,store_name,product_id,product_name,category,trend_slope,trend_strength,seasonal_strength,residual_std,growth_direction
+S001,Mumbai Central,P001,Whole Milk 1L,Dairy,,0,0,,Declining
+S001,Mumbai Central,P002,Basmati Rice 5Kg,Staples,,0,0,,Declining
+S001,Mumbai Central,P003,Sunflower Oil 1L,Staples,,0,0,,Declining
+S001,Mumbai Central,P004,Colgate Toothpaste,Personal Care,,0,0,,Declining
+S001,Mumbai Central,P005,Lay's Chips 100g,Snacks,,0,0,,Declining
+S001,Mumbai Central,P006,Parle-G Biscuits,Snacks,,0,0,,Declining
+S001,Mumbai Central,P007,Dove Soap 3-Pack,Personal Care,,0,0,,Declining
+S001,Mumbai Central,P008,Tata Tea Premium 500g,Beverages,,0,0,,Declining
+S001,Mumbai Central,P009,Coca-Cola 2L,Beverages,,0,0,,Declining
+S001,Mumbai Central,P010,Maggi Noodles 12-Pack,Ready Meals,,0,0,,Declining
+S001,Mumbai Central,P011,Amul Butter 500g,Dairy,,0,0,,Declining
+S001,Mumbai Central,P012,Dettol Hand Wash 500ml,Personal Care,,0,0,,Declining
+S001,Mumbai Central,P013,Kurkure Snacks 200g,Snacks,,0,0,,Declining
+S001,Mumbai Central,P014,Haldiram Namkeen 400g,Snacks,,0,0,,Declining
+S001,Mumbai Central,P015,Rin Detergent 1Kg,Household,,0,0,,Declining
+S002,Delhi North,P001,Whole Milk 1L,Dairy,,0,0,,Declining
+S002,Delhi North,P002,Basmati Rice 5Kg,Staples,,0,0,,Declining
+S002,Delhi North,P003,Sunflower Oil 1L,Staples,,0,0,,Declining
+S002,Delhi North,P004,Colgate Toothpaste,Personal Care,,0,0,,Declining
+S002,Delhi North,P005,Lay's Chips 100g,Snacks,,0,0,,Declining
+S002,Delhi North,P006,Parle-G Biscuits,Snacks,,0,0,,Declining
+S002,Delhi North,P007,Dove Soap 3-Pack,Personal Care,,0,0,,Declining
+S002,Delhi North,P008,Tata Tea Premium 500g,Beverages,,0,0,,Declining
+S002,Delhi North,P009,Coca-Cola 2L,Beverages,,0,0,,Declining
+S002,Delhi North,P010,Maggi Noodles 12-Pack,Ready Meals,,0,0,,Declining
+S002,Delhi North,P011,Amul Butter 500g,Dairy,,0,0,,Declining
+S002,Delhi North,P012,Dettol Hand Wash 500ml,Personal Care,,0,0,,Declining
+S002,Delhi North,P013,Kurkure Snacks 200g,Snacks,,0,0,,Declining
+S002,Delhi North,P014,Haldiram Namkeen 400g,Snacks,,0,0,,Declining
+S002,Delhi North,P015,Rin Detergent 1Kg,Household,,0,0,,Declining
+S003,Bengaluru South,P001,Whole Milk 1L,Dairy,,0,0,,Declining
+S003,Bengaluru South,P002,Basmati Rice 5Kg,Staples,,0,0,,Declining
+S003,Bengaluru South,P003,Sunflower Oil 1L,Staples,,0,0,,Declining
+S003,Bengaluru South,P004,Colgate Toothpaste,Personal Care,,0,0,,Declining
+S003,Bengaluru South,P005,Lay's Chips 100g,Snacks,,0,0,,Declining
+S003,Bengaluru South,P006,Parle-G Biscuits,Snacks,,0,0,,Declining
+S003,Bengaluru South,P007,Dove Soap 3-Pack,Personal Care,,0,0,,Declining
+S003,Bengaluru South,P008,Tata Tea Premium 500g,Beverages,,0,0,,Declining
+S003,Bengaluru South,P009,Coca-Cola 2L,Beverages,,0,0,,Declining
+S003,Bengaluru South,P010,Maggi Noodles 12-Pack,Ready Meals,,0,0,,Declining
+S003,Bengaluru South,P011,Amul Butter 500g,Dairy,,0,0,,Declining
+S003,Bengaluru South,P012,Dettol Hand Wash 500ml,Personal Care,,0,0,,Declining
+S003,Bengaluru South,P013,Kurkure Snacks 200g,Snacks,,0,0,,Declining
+S003,Bengaluru South,P014,Haldiram Namkeen 400g,Snacks,,0,0,,Declining
+S003,Bengaluru South,P015,Rin Detergent 1Kg,Household,,0,0,,Declining
+S004,Pune East,P001,Whole Milk 1L,Dairy,,0,0,,Declining
+S004,Pune East,P002,Basmati Rice 5Kg,Staples,,0,0,,Declining
+S004,Pune East,P003,Sunflower Oil 1L,Staples,,0,0,,Declining
+S004,Pune East,P004,Colgate Toothpaste,Personal Care,,0,0,,Declining
+S004,Pune East,P005,Lay's Chips 100g,Snacks,,0,0,,Declining
+S004,Pune East,P006,Parle-G Biscuits,Snacks,,0,0,,Declining
+S004,Pune East,P007,Dove Soap 3-Pack,Personal Care,,0,0,,Declining
+S004,Pune East,P008,Tata Tea Premium 500g,Beverages,,0,0,,Declining
+S004,Pune East,P009,Coca-Cola 2L,Beverages,,0,0,,Declining
+S004,Pune East,P010,Maggi Noodles 12-Pack,Ready Meals,,0,0,,Declining
+S004,Pune East,P011,Amul Butter 500g,Dairy,,0,0,,Declining
+S004,Pune East,P012,Dettol Hand Wash 500ml,Personal Care,,0,0,,Declining
+S004,Pune East,P013,Kurkure Snacks 200g,Snacks,,0,0,,Declining
+S004,Pune East,P014,Haldiram Namkeen 400g,Snacks,,0,0,,Declining
+S004,Pune East,P015,Rin Detergent 1Kg,Household,,0,0,,Declining
+S005,Chennai West,P001,Whole Milk 1L,Dairy,,0,0,,Declining
+S005,Chennai West,P002,Basmati Rice 5Kg,Staples,,0,0,,Declining
+S005,Chennai West,P003,Sunflower Oil 1L,Staples,,0,0,,Declining
+S005,Chennai West,P004,Colgate Toothpaste,Personal Care,,0,0,,Declining
+S005,Chennai West,P005,Lay's Chips 100g,Snacks,,0,0,,Declining
+S005,Chennai West,P006,Parle-G Biscuits,Snacks,,0,0,,Declining
+S005,Chennai West,P007,Dove Soap 3-Pack,Personal Care,,0,0,,Declining
+S005,Chennai West,P008,Tata Tea Premium 500g,Beverages,,0,0,,Declining
+S005,Chennai West,P009,Coca-Cola 2L,Beverages,,0,0,,Declining
+S005,Chennai West,P010,Maggi Noodles 12-Pack,Ready Meals,,0,0,,Declining
+S005,Chennai West,P011,Amul Butter 500g,Dairy,,0,0,,Declining
+S005,Chennai West,P012,Dettol Hand Wash 500ml,Personal Care,,0,0,,Declining
+S005,Chennai West,P013,Kurkure Snacks 200g,Snacks,,0,0,,Declining
+S005,Chennai West,P014,Haldiram Namkeen 400g,Snacks,,0,0,,Declining
+S005,Chennai West,P015,Rin Detergent 1Kg,Household,,0,0,,Declining
