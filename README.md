@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
 ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **An end-to-end data-driven system for forecasting retail demand and optimizing inventory decisions using Machine Learning and statistical modeling.**
 
