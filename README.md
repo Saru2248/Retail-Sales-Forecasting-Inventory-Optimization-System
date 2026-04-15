@@ -192,15 +192,7 @@ Reorder Point = Avg Demand × Lead Time + Safety Stock
 
 ---
 
-## 📸 Sample Outputs (Add Screenshots Here)
 
-```
-images/sales_trend.png
-images/forecast.png
-images/inventory_report.png
-```
-
----
 
 ## 🎓 Learning Outcomes
 
